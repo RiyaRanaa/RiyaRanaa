@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **riya.rana1432@gmail.com**
 
-- ⚡ Fun fact **Apples are in the rose family🍎**
+- ⚡ Fun fact **I will die only once.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
