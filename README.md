@@ -4,7 +4,7 @@
 <img align="right" alt="coding with music" width="250" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyaranaa&label=Profile%20views&color=0e75b6&style=flat" alt="riyaranaa" /> </p>
 
-- I’m currently learning **AI/Ml, MERN,**
+- I’m currently learning **AI/ML, MERN,**
 
 - How to reach me **riya.rana1432@gmail.com**
 
@@ -20,6 +20,7 @@
   <h5>-Python</h5>
  <h5>-Data Science</h5>
  <h5>-DBMS</h5>
+   <h5>-JavaScript</h5>
  <h5>------------------------------------------------------------------</h5></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaranaa&show_icons=true&locale=en&layout=compact" alt="riyaranaa" /></p>
