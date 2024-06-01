@@ -4,13 +4,10 @@
 <img align="right" alt="coding with music" width="250" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyaranaa&label=Profile%20views&color=0e75b6&style=flat" alt="riyaranaa" /> </p>
 
-- 🌱 I’m currently learning **Java, Algorithm Design, DSA**
+- I’m currently learning **AI/Ml, MERN,**
 
-- 💬 Ask me about **My Programming skills**
+- How to reach me **riya.rana1432@gmail.com**
 
-- 📫 How to reach me **riya.rana1432@gmail.com**
-
-- ⚡ Fun fact **I will die only once.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
