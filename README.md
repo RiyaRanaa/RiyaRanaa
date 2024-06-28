@@ -21,10 +21,3 @@
  <h5>-Data Science</h5>
  <h5>-DBMS</h5>
    <h5>-JavaScript</h5>
- <h5>------------------------------------------------------------------</h5></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaranaa&show_icons=true&locale=en&layout=compact" alt="riyaranaa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyaranaa&show_icons=true&locale=en" alt="riyaranaa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaranaa&" alt="riyaranaa" /></p>
