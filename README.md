@@ -11,12 +11,12 @@
 <p>9341105700</p>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h5>-JAVA, C, Python, HTML, CSS, <h5>
-<h5>-JavaScript with nodejs</h5>
-</h5><h5>-BOOTSTRAP, JQuery</h5> 
-<h5>Numpy, Pandas, Matplotlib<h5>
-<h5>-Data Science</h5>
-<h5>-DBMS, SQL</h5>
+<h2 align="left">Languages and Tools:</h2>
+<h3>-JAVA, C, Python, HTML, CSS, <h3>
+<h3>-JavaScript with nodejs</h3>
+<h3>-BOOTSTRAP, JQuery</h3> 
+<h3>Numpy, Pandas, Matplotlib<h3>
+<h3>-Data Science</h53>
+<h3>-DBMS, SQL</h3>
 
   
