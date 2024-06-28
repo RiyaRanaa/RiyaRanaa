@@ -12,13 +12,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h5>-JAVA<h5>
-<h5>-JavaScript</h5>
-<h5>-Nodejs</h5>
-<h5>-C<h5>
-<h5>-HTML, CSS, BOOTSTRAP, PHP<h5>
-<h5>-Python</h5>
+<h5>-JAVA, C, Python, HTML, CSS, <h5>
+<h5>-JavaScript with nodejs</h5>
+</h5><h5>-BOOTSTRAP, JQuery</h5> 
+<h5>Numpy, Pandas, Matplotlib<h5>
 <h5>-Data Science</h5>
-<h5>-DBMS</h5>
-<h5>-SQL</h5>
+<h5>-DBMS, SQL</h5>
+
   
