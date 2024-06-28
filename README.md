@@ -11,7 +11,7 @@
 <p>9341105700</p>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h3 align="left">Languages and Tools:</h3>
 <h3>-JAVA, C, Python, HTML, CSS, <h3>
 <h3>-JavaScript with nodejs</h3>
 <h3>-BOOTSTRAP, JQuery</h3> 
