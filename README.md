@@ -11,12 +11,50 @@
 <p>9341105700</p>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
-<h3>-JAVA, C, Python, HTML, CSS, <h3>
-<h3>-JavaScript with nodejs</h3>
-<h3>-BOOTSTRAP, JQuery</h3> 
-<h3>Numpy, Pandas, Matplotlib<h3>
-<h3>-Data Science</h53>
-<h3>-DBMS, SQL</h3>
-
+<header>
+    <h1>Languages and Tools</h1>
+  </header>
+  <main>
+    <h2>Languages:</h2>
+    <ul>
+      <li>C</li>
+      <li>Java</li>
+      <li>PHP</li>
+      <li>Java Script, HTML, CSS, framework-Bootstrap</li>
+      <li>Python 3</li>
+    </ul>
+    <h2>Best frameworks and main libraries for Python3:</h2>
+    <ul>
+      <li>Numpy</li>
+      <li>Pandas</li>
+      <li>Sklearn</li>
+    </ul>
+    <h2>My tools for Data Manipulation & Visualisation:</h2>
+    <ul>
+      <li>Conda</li>
+      <li>Jupyter</li>
+      <li>Spark</li>
+      <li>MySQL</li>
+      <li>Matplotlib</li>
+    </ul>
+    <h2>Environments, Testing, Other:</h2>
+    <ul>
+      <li>NodeJS</li>
+      <li>Git</li>
+      <li>GitHub</li>
+    </ul>
+    <h2>OS:</h2>
+    <ul>
+      <li>Linux</li>
+      <li>Ubuntu</li>
+      <li>Kali</li>
+    </ul>
+    <h2>Tools for CTF's</h2>
+    <ul>
+      <li>Cisco Packet Tracer</li>
+      <li>Wireshark</li>
+      <li>Xampp</li>
+      <li>Nmap</li>
+    </ul>
+  </main>
   
