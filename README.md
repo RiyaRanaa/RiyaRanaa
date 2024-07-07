@@ -11,11 +11,11 @@
 <p>9341105700</p>
 </p>
 
-<header>
-    <h1>Languages and Tools</h1>
+  <header>
+    <h2>Languages and Tools</h2>
   </header>
   <main>
-    <h2>Languages:</h2>
+    <h3>Languages:</h3>
     <ul>
       <li>C</li>
       <li>Java</li>
@@ -23,13 +23,13 @@
       <li>Java Script, HTML, CSS, framework-Bootstrap</li>
       <li>Python 3</li>
     </ul>
-    <h2>Best frameworks and main libraries for Python3:</h2>
+    <h3>Best frameworks and main libraries for Python3:</h3>
     <ul>
       <li>Numpy</li>
       <li>Pandas</li>
       <li>Sklearn</li>
     </ul>
-    <h2>My tools for Data Manipulation & Visualisation:</h2>
+    <h3>My tools for Data Manipulation & Visualisation:</h3>
     <ul>
       <li>Conda</li>
       <li>Jupyter</li>
@@ -37,19 +37,19 @@
       <li>MySQL</li>
       <li>Matplotlib</li>
     </ul>
-    <h2>Environments, Testing, Other:</h2>
+    <h3>Environments, Testing, Other:</h3>
     <ul>
       <li>NodeJS</li>
       <li>Git</li>
       <li>GitHub</li>
     </ul>
-    <h2>OS:</h2>
+    <h3>OS:</h3>
     <ul>
       <li>Linux</li>
       <li>Ubuntu</li>
       <li>Kali</li>
     </ul>
-    <h2>Tools for CTF's</h2>
+    <h3>Tools for CTF's</h3>
     <ul>
       <li>Cisco Packet Tracer</li>
       <li>Wireshark</li>
