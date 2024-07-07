@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Computer Science Engineer from India, and innovation is my fuel! 🚀</h3>
 
 
-- I’m currently learning **AI/ML**
+<!--            - I’m currently learning **AI/ML**          -->
 
-- How to reach me **riya.rana1432@gmail.com**
+<!--   - How to reach me **riya.rana1432@gmail.com**        -->
 
 
 <h3 align="left">Connect with me:</h3>
