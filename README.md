@@ -15,25 +15,19 @@
     <h2>Languages and Tools</h2>
   </header>
   <main>
-    <h3>Languages:</h3>
-    <ul>
-      <li>C</li>
-      <li>Java</li>
-      <li>PHP</li>
-      <li>Java Script, HTML, CSS, framework-Bootstrap</li>
-      <li>Python 3</li>
-    </ul>
-   <h1>Tech Stack</h1>
+   <h1>Tech</h1>
   <ul>
-     <li>Programming Language: Java, Python, C</li>
+   <h5>
+    <li>Programming Language: Java, Python, C</li>
     <li>Frontend: HTML5, CSS3, JavaScript, jQuery</li>
-    <li>Frameworks/Libraries: React, BootStrapI</li>
+    <li>Frameworks/Libraries: React, BootStrap</li>
     <li>Backend: Node.js, Express</li>
     <li>Databases: MongoDB, MySQL, PHP</li>
     <li>DevOps/Cloud: AWS</li>
     <li>Tools: Git, GitHub</li>
     <li>Frameworks/Libraries for python: Numpy, Pandas</li>
     <li>Tools for Data Manipulation & Visualisation: Anaconda, Jupyter, Matplotlib</</li>
+   </h5>
   </ul>
     <h3>OS:</h3>
     <ul>
