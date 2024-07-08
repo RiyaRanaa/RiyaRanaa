@@ -57,4 +57,5 @@
       <li>Nmap</li>
     </ul>
   </main>
-  
+
+  <p>Thank you for visiting my profile. Let's innovate and build something amazing together!</p>
