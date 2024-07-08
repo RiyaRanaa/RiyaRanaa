@@ -17,7 +17,6 @@
   <main>
    <h3>Tech</h3>
   <ul>
-   <h4>
     <li>Programming Language: Java, Python, C</li>
     <li>Frontend: HTML5, CSS3, JavaScript, jQuery</li>
     <li>Frameworks/Libraries: React, BootStrap</li>
@@ -27,7 +26,6 @@
     <li>Tools: Git, GitHub</li>
     <li>Frameworks/Libraries for python: Numpy, Pandas</li>
     <li>Tools for Data Manipulation & Visualisation: Anaconda, Jupyter, Matplotlib</</li>
-   </h4>
   </ul>
     <h3>OS:</h3>
     <ul>
