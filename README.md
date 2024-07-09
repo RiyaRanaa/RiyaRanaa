@@ -12,12 +12,12 @@
 </p>
 
   <header>
-    <h2>Languages and Tool💭s</h2>
+    <h2>Languages and Tools💭</h2>
   </header>
   <main>
    <h3>🔵Tech</h3>
   <ul>
-    <li>Programming Language: Java☕️, Python🐍, C©</li>
+    <li>Programming Language: Java☕️, Python🐍, C</li>
     <li>Frontend: HTML5, CSS3, JavaScript, jQuery</li>
     <li>Frameworks/Libraries: React, BootStrap</li>
     <li>Backend: Node.js, Express</li>
