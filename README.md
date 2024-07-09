@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science Engineer from India, and innovation is my fuel! 🚀</h3>
 
 
- - I’m currently learning **AI/ML**        
+ -🔗 I’m currently learning **AI/ML**        
 
 <!--   - How to reach me **riya.rana1432@gmail.com**        -->
 
@@ -12,16 +12,16 @@
 </p>
 
   <header>
-    <h2>Languages and Tools</h2>
+    <h2>Languages and Tool💭s</h2>
   </header>
   <main>
    <h3>🔵Tech</h3>
   <ul>
-    <li>Programming Language: Java, Python🐍, C</li>
+    <li>Programming Language: Java☕️, Python🐍, C©</li>
     <li>Frontend: HTML5, CSS3, JavaScript, jQuery</li>
     <li>Frameworks/Libraries: React, BootStrap</li>
     <li>Backend: Node.js, Express</li>
-    <li>Databases: MongoDB, MySQL, PHP</li>
+    <li>Databases: MongoDB, MySQL🐬, PHP</li>
     <li>DevOps/Cloud: AWS</li>
     <li>Tools: Git, GitHub🐱</li>
     <li>Frameworks/Libraries for python: Numpy, Pandas</li>
@@ -42,4 +42,4 @@
     </ul>
   </main>
 
-  <p>Thank you for visiting my profile. Let's innovate and build something amazing together!</p>
+  <p>🔖Thank you for visiting my profile. Let's innovate and build something amazing together!</p>
