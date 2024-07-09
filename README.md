@@ -15,25 +15,25 @@
     <h2>Languages and Tools</h2>
   </header>
   <main>
-   <h3>Tech</h3>
+   <h3>🔵Tech</h3>
   <ul>
-    <li>Programming Language: Java, Python, C</li>
+    <li>Programming Language: Java, Python🐍, C</li>
     <li>Frontend: HTML5, CSS3, JavaScript, jQuery</li>
     <li>Frameworks/Libraries: React, BootStrap</li>
     <li>Backend: Node.js, Express</li>
     <li>Databases: MongoDB, MySQL, PHP</li>
     <li>DevOps/Cloud: AWS</li>
-    <li>Tools: Git, GitHub</li>
+    <li>Tools: Git, GitHub🐱</li>
     <li>Frameworks/Libraries for python: Numpy, Pandas</li>
     <li>Tools for Data Manipulation & Visualisation: Anaconda, Jupyter, Matplotlib</</li>
   </ul>
-    <h3>OS:</h3>
+    <h3>🔵OS:</h3>
     <ul>
-      <li>Linux</li>
+      <li>Linux🐧</li>
       <li>Ubuntu</li>
       <li>Kali</li>
     </ul>
-    <h3>Tools for CTF's! in cybersecurity</h3>
+    <h3>🔵Tools for CTF's! in cybersecurity</h3>
     <ul>
       <li>Cisco Packet Tracer</li>
       <li>Wireshark</li>
