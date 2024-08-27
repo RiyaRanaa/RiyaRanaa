@@ -1,4 +1,4 @@
-<h1 align="center">नमस्कार/Hey 👋, I'm Riya Rana</h1>
+<h1 align="center">नमस्कार/Hello 👋, I'm Riya Rana</h1>
 <h3 align="center">A passionate Computer Science Engineer from India, and innovation is my fuel! 🚀</h3>
 
 
